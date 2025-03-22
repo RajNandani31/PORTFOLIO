@@ -22,11 +22,11 @@ This is a **fully responsive** portfolio website built using **HTML, CSS, and Ja
 # Installation & Usage
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+  (https://github.com/RajNandani31/PORTFOLIO.git)
    ```
 2. **Navigate to the project folder**
    ```sh
-   cd YOUR_REPO_NAME
+   cd PORTFOLIO
    ```
 3. **Open `index.html` in your browser**
    ```sh
@@ -38,4 +38,4 @@ This is a **fully responsive** portfolio website built using **HTML, CSS, and Ja
 
 
 # Connect with Me
-[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/raj-nandani-792289280/)) |  | [Portfolio](https://yourportfolio.com)
+[LinkedIn]](https://www.linkedin.com/in/raj-nandani-792289280/)) |  | [Portfolio](https://yourportfolio.com)
